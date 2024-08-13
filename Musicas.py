@@ -10,7 +10,17 @@ import os
 import requests
 import io
 
-# Sua API Key do YouTube Data API v3
+
+""""
+1.Log in to Google Developers Console.              
+2.Create a new project.               
+3.On the new project dashboard, click Explore & Enable APIs.             
+4.In the library, navigate to YouTube Data API v3 under YouTube APIs.              
+5.Enable the API.               
+6.Create a credential.              
+7.A screen will appear with the API key." https://blog.hubspot.com/website/how-to-get-youtube-api-key
+"""
+# Sua API Key do YouTube Data API v3 (Pesqusiar por Google Cloud Console)
 API_KEY = ''
 
 tk.set_appearance_mode('system')
